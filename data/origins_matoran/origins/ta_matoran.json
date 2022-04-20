@@ -1,0 +1,11 @@
+{
+    "name": "Ta-Matoran",
+    "description": "Ta-Matoran are the Matoran of Fire, and can tolerate extreme heat.",
+    "powers": [
+        "origins:burning_wrath",
+        "origins:fire_immunity"
+    ],
+    "icon": "minecraft:red_dye",
+    "order": 4,
+    "impact": 1
+}
